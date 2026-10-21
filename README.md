@@ -1,4 +1,4 @@
 # Projekt Alfa-Beta
-Jedno zdanie opisu.
+Opis projektu.
 
 ## Jakub Chyła
