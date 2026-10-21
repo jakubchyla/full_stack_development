@@ -1,4 +1,4 @@
-# Full stack development Lab 1 - git
+# Projekt Beta
 Jedno zdanie opisu.
 
 ## Jakub Chyła
